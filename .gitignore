@@ -1,5 +1,6 @@
 wp-admin
-wp-content/plugins
+wp-content/plugins/hello.php
+wp-content/plugins/akismet
 wp-includes
 .htacess
 wp-includes
@@ -10,6 +11,7 @@ wp-includes
 /wp-activate.php
 /wp-blog-header.php
 /wp-comments-post.php
+/wp-config-docker.php
 /wp-config.php
 /wp-config-sample.php
 /wp-cron.php
