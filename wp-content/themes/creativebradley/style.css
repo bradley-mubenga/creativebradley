@@ -1,9 +1,49 @@
 /*
 Theme Name: Creative Bradley
-Text Domain: creativebradley.com
+Text Domain: Creative Bradley
 Version: 1.0
-Description: Tailored WordPress theme for Bradley Mubenga's portfolio website.
-Tags: Web developer portfolio, responsive, business website.
+Description: Custom WordPress theme for creativebradley.com.
+Tags: Digital marketing agency, responsive, business website.
 Author: Bradley Mubenga
 Author URI: https://creativebradley.com/
 */
+@font-face {
+  font-family: PPHatton;
+  font-weight: light;
+  src: url("assets/font/PP Hatton Ultralight 200.otf") format("opentype");
+}
+@font-face {
+  font-family: PPHatton;
+  font-weight: bold;
+  src: url("assets/font/PP Hatton Bold 700.otf") format("opentype");
+}
+@font-face {
+  font-family: PPHatton;
+  font-weight: normal;
+  src: url("assets/font/PP Hatton Medium 500.otf") format("opentype");
+}
+html {
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+  margin: 0;
+  padding: 0;
+  font-family: "PPHatton", sans-serif;
+}
+html body {
+  padding: 4vh 7vw;
+}
+
+a {
+  color: #264D37;
+  text-decoration: none;
+}
+
+h1 {
+  margin: 0;
+  padding: 0;
+}
+
+h2 {
+  margin: 0;
+  padding: 0;
+}/*# sourceMappingURL=style.css.map */

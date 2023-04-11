@@ -1,6 +1,8 @@
 wp-admin
 wp-content/plugins/hello.php
 wp-content/plugins/akismet
+wp-content/themes/creativebradley/style.css.map
+wp-content/themes/creativebradley/style.scss
 wp-includes
 .htacess
 wp-includes
